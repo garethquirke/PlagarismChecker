@@ -1,0 +1,19 @@
+﻿Build started 20/10/2015 16:38:05.
+     1>Project "c:\Users\noel\documents\visual studio 2015\Projects\Project14\Project14\Project14.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "F:\College\C++\Elapsed CA\File.cpp" "F:\College\C++\Elapsed CA\main.cpp"
+         File.cpp
+     1>f:\college\c++\elapsed ca\file.h(9): error C2143: syntax error: missing ';' before '*'
+     1>f:\college\c++\elapsed ca\file.h(9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+     1>f:\college\c++\elapsed ca\file.h(9): error C2238: unexpected token(s) preceding ';'
+     1>f:\college\c++\elapsed ca\file.cpp(30): warning C4129: 'D': unrecognized character escape sequence
+     1>f:\college\c++\elapsed ca\file.cpp(30): warning C4129: 'g': unrecognized character escape sequence
+         Generating Code...
+         Compiling...
+         main.cpp
+         Generating Code...
+     1>Done Building Project "c:\Users\noel\documents\visual studio 2015\Projects\Project14\Project14\Project14.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:03.20
